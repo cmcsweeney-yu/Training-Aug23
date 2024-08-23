@@ -21,4 +21,4 @@ Students who have been issued an ADW by the instructor may, at the request of th
 ## Reinstatement:
 •	Students may not be reinstated after the last date (available on my.ccc.edu) for student-initiated withdrawals (WTH). 
 •	A student who is reinstated (RNS) by the instructor after having received an administrative withdrawal (ADW) may not elect to withdraw (WTH) from the class at a later time.
-![image](https://github.com/user-attachments/assets/c66ce034-151a-4f93-913d-e7d0f3e13626)
+
