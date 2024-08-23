@@ -1,13 +1,6 @@
-# Training-Aug23
-GitHub Training Work
+# GITHUB   Training-Aug23 with Milan
 
-## Charles' Work on Aug 23 2024
 
-# First Level
-Verbiage for level 1
-
-## trying something here
-Verbiage for sub level
 # Course Policy
 ## NSW – No-Show Withdrawal from Online Courses
 Students registered in online classes will be issued a no-show withdrawal (NSW) if they do not pursue academic activities within the online environment of the course on at least two separate days prior to the statistical (STAT) reporting day of the class (see No-Show Withdrawals (NSW) & Refunds for information about the NSW refund policy). Academic activities may include, but are not limited to, the completion of assignments, exams and quizzes or participation in online discussions. Academic activities do not include merely logging onto the course site (or learning management system – LMS, see Learning Management System), or acknowledging that you have read the syllabus.
